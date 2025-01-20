@@ -1,0 +1,23 @@
+/* Center the input fields and button */
+.slds-p-around_medium {
+    padding: 1rem;
+    text-align: center;
+}
+
+/* Style for input fields */
+.lightning-input {
+    margin: 10px 0;
+}
+
+/* Style for the weather data display */
+.weather-data {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: #333;
+}
+
+/* Style for error messages */
+.slds-text-color_error {
+    color: red;
+    font-weight: bold;
+}
